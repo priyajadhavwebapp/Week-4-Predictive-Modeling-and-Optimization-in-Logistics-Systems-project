@@ -1,0 +1,13 @@
+feature,importance
+num__distance_km,0.4196085166129617
+cat__transport_mode_Sea,0.163975669972082
+cat__transport_mode_Air,0.123515431273917
+num__shipment_volume_units,0.051225081638775344
+num__weight_kg,0.047614974187343104
+cat__weather_condition_Severe,0.04304590495123308
+num__traffic_level_1_to_5,0.03843284674983679
+cat__weather_condition_Clear,0.03326550028921337
+cat__shipment_type_Express,0.013983663016245347
+cat__region_East,0.009418085717093768
+cat__weather_condition_Rain,0.006990414553367256
+cat__shipment_type_Fragile,0.006929807292519804
